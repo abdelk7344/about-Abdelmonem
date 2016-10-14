@@ -3,9 +3,10 @@
 ### Email: abdelmonemmoamk7344@hstat.org  
 
 > ##### Bio: I am a junior that is attending TELE and intrested in both the math and science field. 
+***
 
-**_Schedule_**:
-1. spanish   
+**_Schedule_**:  
+1. spanish  
 2. honors english  
 3. ap u.s  
 4. lunch  
